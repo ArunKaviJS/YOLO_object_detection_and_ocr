@@ -1,0 +1,17 @@
+path: passport_dataset
+
+train: images/train
+val: images/val
+
+names:
+  0: passport_number
+  1: surname
+  2: given_name
+  3: nationality
+  4: dob
+  5: place_of_birth
+  6: issue_date
+  7: expiry_date
+  8: mrz
+  9: photo
+  10: signature
